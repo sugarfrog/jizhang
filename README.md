@@ -1,2 +1,2 @@
 # jizhang
-for competition
+竞赛用
